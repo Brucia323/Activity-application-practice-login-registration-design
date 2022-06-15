@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="账号">账号</string>
+    <string name="密码">密码</string>
+    <string name="登录">登录</string>
+    <string name="头像">头像</string>
+    <string name="无法登录">无法登录</string>
+    <string name="新用户">新用户</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="spintitle">选择城市</string>
+    <string name="返回">返回</string>
+    <string name="用户登录">用户登录</string>
+    <string name="注册">注册</string>
+    <string name="欢迎注册智慧校园平台">欢迎注册智慧校园平台，注册成功后，您可以方便获得校园内咨询！</string>
+    <string name="用户名">用户名：</string>
+    <string name="请输入用户名">请输入用户名</string>
+    <string name="_6_12">请输入密码6-12位</string>
+    <string name="确认密码">确认密码：</string>
+    <string name="请确认输入密码_6_12位">请确认输入密码6-12位</string>
+    <string name="男">男</string>
+    <string name="女">女</string>
+    <string name="出生年月">出生年月：</string>
+    <array name="provinces_array">
+        <item>福建省</item>
+        <item>江苏省</item>
+        <item>浙江省</item>
+        <item>上海市</item>
+        <item>北京市</item>
+        <item>湖南省</item>
+        <item>黑龙江省</item>
+        <item>辽宁省</item>
+    </array>
+    <array name="cities_array">
+        <item>福州</item>
+        <item>南京</item>
+        <item>杭州</item>
+        <item>上海</item>
+        <item>北京</item>
+        <item>长沙</item>
+        <item>哈尔滨</item>
+        <item>沈阳</item>
+    </array>
+</resources>

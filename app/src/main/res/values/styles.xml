@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="textStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">left</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="RadingStyle" parent="@android:style/Widget.RatingBar">
+        <!-- 定义自己的图片. -->
+        <item name="android:progressDrawable">@drawable/myratingbar</item>
+        <!-- 根据自身图片大小设置自定义图片个数. -->
+        <item name="android:numColumns">5</item>
+    </style>
+
+</resources>
